@@ -1,0 +1,128 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "169.254.20.121",
+      "books": 1
+    },
+    {
+      "host": "664eeef1a4ec",
+      "books": 1
+    },
+    {
+      "host": "7af24a7e12a7",
+      "books": 101
+    },
+    {
+      "host": "Lukes-MacBook-Pro.local",
+      "books": 3
+    },
+    {
+      "host": "ed4996b058ea",
+      "books": 3
+    },
+    {
+      "host": "ip-172-31-27-92",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-lukecrater",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-27-92",
+          "at": "2026-10-29 18:54:19.678000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 21:55:19.968000",
+          "job": "22825597_101"
+        },
+        {
+          "host": "7af24a7e12a7",
+          "at": "2026-11-19 02:34:52.866000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "- Setting: Set in Spain, particularly around the 16th century.\n- Main Characters: Don Quixote, a mad knight, and Sancho Panza, his loyal squire.\n- Plot Summary: Don Quixote, inspired by medieval chivalry stories, decides to ride off as a knight and falls in love with Dulcinea, a woman he believes to be a princess. However, he encounters numerous comedic and tragic misadventures, including battles with windmills, enchanted objects, and misunderstandings.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 21:55:19.968000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-lukecrater",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-27-92",
+          "at": "2026-10-29 18:54:19.318000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 21:54:47.508000",
+          "job": "22825597_100"
+        },
+        {
+          "host": "7af24a7e12a7",
+          "at": "2026-11-19 02:34:52.334000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "Jerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.",
+        "genre": "mystery",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 21:54:47.508000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-lukecrater",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-27-92",
+          "at": "2026-10-29 18:54:19.101000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 21:54:48.559000",
+          "job": "22825597_99"
+        },
+        {
+          "host": "7af24a7e12a7",
+          "at": "2026-11-19 02:34:51.897000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 21:54:48.559000"
+      }
+    }
+  ]
+}
